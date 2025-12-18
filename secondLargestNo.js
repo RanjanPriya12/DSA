@@ -1,6 +1,9 @@
 const arr = [2,1,3,8,4,5];
 
 function findSecondLargestNumber(arr){
+    if(arr.length<2){
+        return null;
+    }
     let first=-Infinity,second=-Infinity;
     for(let i=0;i<arr.length;i++){
         if(arr[i]>first){
