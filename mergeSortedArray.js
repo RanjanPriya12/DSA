@@ -26,5 +26,6 @@ function mergeSortedArrays(arr1,n,arr2,m){
             tail--;
         }
     }
+    console.log(arr1);
 }
 mergeSortedArrays(n1,n1.length,n2,n2.length);
