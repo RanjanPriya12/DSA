@@ -37,16 +37,18 @@ MyLinkedList.prototype.addNewNodeAtIndex=function(index,value){
     if(index===0){
         this.addNodeAtHead(value);
         return;
-    }else{
+    }else if(index===this.size){
+        this.addNewNodeAtTail(value);
+    }
+    else{
         const newNode = new Node(value);
-        let current=this.head,previous=null,count=0;
-        while(count<index){
-            previous=current;
+        let current=this.head,count=0;
+        while(count<index-1){
             current=current.next;
             count++;
         }
-        newNode.next=current;
-        previous.next=newNode;
+        newNode.next=current.next;
+        current.next=newNode;
         this.size++;
     }
 }
