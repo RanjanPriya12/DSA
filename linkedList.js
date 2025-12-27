@@ -15,3 +15,16 @@ const addNodeAtHead=function(value){
     this.size++;
 
 }
+
+const addNewNodeAtTail=function(value){
+    const newNode=new Node(10);
+    if(!this.head){
+        this.head=newNode;
+    }else{
+        let current = this.head;
+        while(current.next){
+            current=current.next;
+        }
+        current.next=newNode;
+    }
+}
