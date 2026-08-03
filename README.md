@@ -31,6 +31,7 @@ learning DSA from Akshay Saini
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjanPriya12/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/RanjanPriya12/DSA/tree/master/0058-length-of-last-word) |
 ## Sliding Window
 |  |
 | ------- |
