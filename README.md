@@ -10,6 +10,7 @@ learning DSA from Akshay Saini
 | [0016-3sum-closest](https://github.com/RanjanPriya12/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RanjanPriya12/DSA/tree/master/0018-4sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanjanPriya12/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/RanjanPriya12/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ learning DSA from Akshay Saini
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/RanjanPriya12/DSA/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@ learning DSA from Akshay Saini
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/RanjanPriya12/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/RanjanPriya12/DSA/tree/master/0219-contains-duplicate-ii) |
 ## String Matching
 |  |
 | ------- |
