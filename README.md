@@ -9,6 +9,7 @@ learning DSA from Akshay Saini
 | [0015-3sum](https://github.com/RanjanPriya12/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RanjanPriya12/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RanjanPriya12/DSA/tree/master/0018-4sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/RanjanPriya12/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,6 +37,7 @@ learning DSA from Akshay Saini
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/RanjanPriya12/DSA/tree/master/0209-minimum-size-subarray-sum) |
 ## String Matching
 |  |
 | ------- |
@@ -52,4 +54,12 @@ learning DSA from Akshay Saini
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjanPriya12/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RanjanPriya12/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/RanjanPriya12/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
