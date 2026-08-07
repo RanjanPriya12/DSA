@@ -30,6 +30,7 @@ learning DSA from Akshay Saini
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/RanjanPriya12/DSA/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/RanjanPriya12/DSA/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## String
 |  |
@@ -37,6 +38,7 @@ learning DSA from Akshay Saini
 | [0003-longest-substring-without-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjanPriya12/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RanjanPriya12/DSA/tree/master/0058-length-of-last-word) |
+| [0290-word-pattern](https://github.com/RanjanPriya12/DSA/tree/master/0290-word-pattern) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
