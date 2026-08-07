@@ -19,6 +19,7 @@ learning DSA from Akshay Saini
 | [0016-3sum-closest](https://github.com/RanjanPriya12/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/RanjanPriya12/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjanPriya12/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RanjanPriya12/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -39,6 +40,7 @@ learning DSA from Akshay Saini
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/RanjanPriya12/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/RanjanPriya12/DSA/tree/master/0058-length-of-last-word) |
 | [0290-word-pattern](https://github.com/RanjanPriya12/DSA/tree/master/0290-word-pattern) |
+| [0345-reverse-vowels-of-a-string](https://github.com/RanjanPriya12/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/RanjanPriya12/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
